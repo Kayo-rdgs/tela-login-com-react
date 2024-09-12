@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tela-login-react/static/css/main.215d11a4.css",
+    "main.css": "/tela-login-react/static/css/main.85b9fbec.css",
     "main.js": "/tela-login-react/static/js/main.209b86bc.js",
-    "static/media/bg.webp": "/tela-login-react/static/media/bg.a68d21454f283cf80369.webp",
+    "static/media/bg.jpg": "/tela-login-react/static/media/bg.85ebb68b4f4a480fb4c0.jpg",
     "index.html": "/tela-login-react/index.html",
-    "main.215d11a4.css.map": "/tela-login-react/static/css/main.215d11a4.css.map",
+    "main.85b9fbec.css.map": "/tela-login-react/static/css/main.85b9fbec.css.map",
     "main.209b86bc.js.map": "/tela-login-react/static/js/main.209b86bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.215d11a4.css",
+    "static/css/main.85b9fbec.css",
     "static/js/main.209b86bc.js"
   ]
 }
